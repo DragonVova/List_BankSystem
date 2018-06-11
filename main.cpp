@@ -1,15 +1,10 @@
+//List and simple list customization
+
+
 #include <iostream>
 #include <cstring>
 #include <conio.h>
 #include <fstream>
-
-//Шифровка пароля
-//Файли
-//Сортування
-//Авторизация
-//Телефон
-//Бабкі переслати
-
 
 
 using namespace std;
